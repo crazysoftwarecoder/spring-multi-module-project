@@ -30,7 +30,7 @@ class UserRepositoryIntegrationTest extends BaseRepositoryTest {
         assertThat(rowsAffected).isEqualTo(1);
 
         assertThat(foundUser).isPresent();
-        assertThat(foundUser.get().getFullName()).isEqualTo("hi");
+        assertThat(foundUser.get().getFullName()).isEqualTo(fullName);
         assertThat(foundUser.get().getHandle()).isEqualTo(handle);
         assertThat(foundUser.get().getMessage()).isEqualTo(message);
 
