@@ -1,6 +1,6 @@
 # Spring Multi-Module Project
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ashwanthfernando/spring-multi-module-project/maven.yml?branch=main&label=build)](https://github.com/ashwanthfernando/spring-multi-module-project/actions/workflows/maven.yml)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/crazysoftwarecoder/spring-multi-module-project/maven.yml?branch=main&label=build)](https://github.com/crazysoftwarecoder/spring-multi-module-project/actions/workflows/maven.yml)
 
 A Spring Boot multi-module project demonstrating a clean architecture with separate modules for:
 - `common`: Shared entities and DTOs
